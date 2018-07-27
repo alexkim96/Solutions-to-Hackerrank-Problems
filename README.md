@@ -1,1 +1,1 @@
-This files contains my solutions to Hackerrank problems
+This file contains my solutions to Hackerrank problems
